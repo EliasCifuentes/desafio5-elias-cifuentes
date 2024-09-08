@@ -10,7 +10,6 @@ body {
   font-family: "Protest Guerrilla", sans-serif;
   font-weight: 800;
   font-size: 2em;
-  width: 50%;
   font-style: normal;
   color: rgb(221, 183, 13);
 }
@@ -34,6 +33,13 @@ body {
 }
 
 /* Contacto */
+
+#Contacto > h2{
+  font-family: "Protest Guerrilla", sans-serif;
+  font-size: 4em;
+  text-align: center;
+  font-style: normal;
+}
 
 #Contacto form label {
   font-weight: 700;
