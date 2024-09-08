@@ -8,14 +8,17 @@ body {
 
 .navbar-brand > p{
   font-family: "Protest Guerrilla", sans-serif;
-  font-weight: 400;
+  font-weight: 800;
+  font-size: 2em;
+  width: 50%;
   font-style: normal;
+  color: rgb(221, 183, 13);
 }
 
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/fondo-negro.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
